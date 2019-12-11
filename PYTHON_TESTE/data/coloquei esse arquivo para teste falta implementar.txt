@@ -1,0 +1,1 @@
+falta implementar os idiomas via AYML no python   elias 06/12/2019
